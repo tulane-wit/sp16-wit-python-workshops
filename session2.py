@@ -3,6 +3,7 @@ Sarah Lohmeier, 2/29/16
 SESSION 2: Choose-Your-Own-Adventure Games
 
 In this workshop, we'll use the tools from Session 1 to make a choose-your-own adventure game.
+
 Topics: input, type conversion, possibly arrays
 
 '''
