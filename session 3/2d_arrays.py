@@ -31,11 +31,11 @@ example_matrix = [
     [0, 0, 0, 0],
 ]
 
-#matrix_print(example_matrix)
+matrix_print(example_matrix)
 
 # We can access an entire row in a matrix:
 
-#print example_matrix[0]
+print example_matrix[0]
 example_matrix[0] = [2, 0, 0, 0]
 #matrix_print(example_matrix)
 

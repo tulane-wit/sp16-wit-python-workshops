@@ -23,7 +23,8 @@ example_array  = ['a', 'b', 'c']
 
 # Elements in an array are accessed with the name of the array and the index:
 
-first_letter = example_array[0]
+#first_letter = example_array[0]
+
 
 
 # Elements are easily added onto the end:
@@ -34,7 +35,7 @@ example_array.append('d')
 # And you can slice arrays to select a subset of the array elements.
 # The start index value is inclusive, the end index value is exclusive.
 
-example_array = example_array[0:4]
+example_array = example_array[0:3]
 
 
 
@@ -45,8 +46,11 @@ example_array = example_array[0:4]
 # One option: set the index variable to 0....n
 
 index_array = []
-for i in range(len(example_array)-1):
-    index_array.append(i)
+for i in range(len(example_array)):
+    index_array.append(example_array[i])
+    
+
+#print index_array
 
 # Another option: set i equal to each element, with a nifty Python shortcut.
 
