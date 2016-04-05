@@ -6,8 +6,6 @@ This GitHub repository is home to workshop notes and code samples for each week'
 
 Email us at <tuwomenintech@gmail.com>-- we'd love to hear from you!
 
-Keep an eye out for the sign-up form!
-
 
 #### Schedule:
 2/22: Session 1, Programming Basics
@@ -18,11 +16,11 @@ Keep an eye out for the sign-up form!
 
 3/14: Session 4, Web Scraping
 
-4/4: Session 5, API's
+(4/4: Cancelled)
 
-4/11: Session 6, Django
+4/11: Session 5, API's
 
-4/18: Session 7, Arduinos
+4/18: Session 6, Django
 
 
 We'll have optional coding challenges to complete (for prizes!) every two weeks, and a small celebration during the final session.
