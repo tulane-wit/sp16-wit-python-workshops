@@ -39,7 +39,8 @@ try:
 	print kittens[559:1000]
 except URLError, e:
     print 'Failed. Error code:', e
-    
+   
+   
 '''
 HTTP
 
@@ -65,6 +66,7 @@ types of requests: GET, PUT, POST, and DELETE.
 The API we'll be working with today is called OpenStates:
 http://tryit.sunlightfoundation.com/openstates
 '''
+
 
 # be sure you have the full url, including the 'http://' part!
 legislator_request = Request('http://openstates.org/api/v1//legislators/?state=la&active=true&apikey=6c25fff7e6e943f1891565b1ff7a967c')
