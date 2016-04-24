@@ -1,0 +1,19 @@
+Sarah Lohmeier, 4/18/16
+SESSION 6: Django
+
+In this workshop, we'll walk through creating a web app with Django.
+
+Django is a Python-powered web framework that makes it really easy and fast to get a website
+up and running. They also have fantastic documentation, so we'll be walking through the
+official Django tutorial!
+
+To get started, create a new Django workspace in Cloud9. C9 has Django already installed,
+so if you try and do this on your local machine, you'll need to download and install it
+before following the tutorial.
+
+To customize your web pages, try checking the HTML, CSS, and JavaScript tutorials at the 
+W3 Schools website.
+
+LINKS:
+https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+w3schools.com
